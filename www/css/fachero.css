@@ -1,0 +1,14 @@
+.seccionPrincipal{
+    width: 700px;
+    height: 1000px;
+    background: rgb(59, 255, 255);
+    position: relative;
+    margin: 0 auto;
+}
+body{
+    background: rgb(0, 123, 255);
+}
+.contenido1{
+    margin: 0 auto;
+    text-align: center;
+}
